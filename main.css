@@ -1,0 +1,32 @@
+﻿body {
+	
+	position:absolute;
+
+	top:0px;
+
+	left:0px;
+
+}
+
+a:link {
+    color: #FFFFFF;
+}
+
+a:visited {
+    color: #c32387;
+}
+
+
+div#position {
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+}
+
+
+table#titletd {
+	
+	background-color:black;
+	
+}
